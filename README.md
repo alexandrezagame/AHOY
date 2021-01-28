@@ -1,5 +1,7 @@
 # AHOY
 
+Watch our demo here: https://vimeo.com/502096538
+
 AHOY is a Dashboard as a Service (DaaS). We aimed to create a digital office where you can find the things you need in one place. We wanted to focus on how to onboard remotely and how to bring back the social aspect of working.
 
 ## Technology
